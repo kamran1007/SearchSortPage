@@ -1,6 +1,6 @@
 # SearchSortPage
 This nodejs app is deploy on Heruku server link is :- https://git.heroku.com/searchsortpage.git
-Run npn init to initialize the server on local machine  http://localhost:8080
+Run npn start to initialize the server on local machine  http://localhost:8080
 In this application i have created a database on mongodb for id, createdAt, name, age,
 And creating a search API for searching name from database and sorting that data occording to age (dynamic)
 also there is pagination to skip that particular page from database
